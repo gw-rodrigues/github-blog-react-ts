@@ -5,10 +5,10 @@
 <br/><br/>
 
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](./LICENSE)
-![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/ignite-react-2022-github-blog?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/ignite-react-2022-github-blog?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/ignite-react-2022-github-blog?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/ignite-react-2022-github-blog?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/github-blog-react-ts?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/github-blog-react-ts?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/github-blog-react-ts?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/github-blog-react-ts?style=for-the-badge)
 
 <br/><br/>
 
